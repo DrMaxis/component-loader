@@ -1,5 +1,9 @@
 # component-loader
 
+## Installation
+
+- Use `yarn add @drmaxis/component-loader | npm i @drmaxis/component-loader`
+
 ## Usage
 **The Component Loader can attach any dialect of javascript or typescript to a direct DOM element and expose scoped functionality without using external dependencies (just plain js or ts).** 
 

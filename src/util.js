@@ -18,3 +18,5 @@ export function isValidSelector(selector) {
   }
   return true;
 }
+
+export const isServer = typeof window === "undefined";

@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bythepixel/component-loader.git"
+    "url": "git+https://github.com/drmaxis/component-loader.git"
   },
   "author": "",
   "license": "ISC",
@@ -21,6 +21,10 @@
   "devDependencies": {
     "@babel/cli": "^7.0.0",
     "@babel/core": "^7.0.0",
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
+    "@babel/plugin-proposal-export-default-from": "^7.12.1",
+    "@babel/plugin-proposal-optional-chaining": "^7.12.7",
+    "@babel/plugin-proposal-private-methods": "^7.12.1",
     "@babel/preset-env": "^7.12.7",
     "eslint": "^7.32.0 || ^8.2.0",
     "eslint-config-airbnb-base": "^15.0.0",
